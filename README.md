@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Trololoshki
+- 👀 I'm interested in java development
+- 🌱 I'm just learning now
